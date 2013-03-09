@@ -31,6 +31,6 @@ The rest of the scripts are ones I've written over the years for various project
 - gpstime.sh - Hack to set system time from Bluetooth GPS device.
 
 License
---------------
+==============
 
 These scripts are being released with a standard 3-clause BSD license. Please see "LICENSE" for complete details.
