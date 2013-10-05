@@ -1,4 +1,4 @@
-![Terminal](http://www.digifail.com/images/misc/term_header.gif "WUB WUB WUB")
+![Terminal](http://www.digifail.com/images/misc/github/term_header.gif "WUB WUB WUB")
 
 Bash Scripts
 ==============
